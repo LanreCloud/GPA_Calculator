@@ -1,0 +1,91 @@
+body{
+    position: absolute;
+    left: 350px;
+    background-color: rgb(231, 218, 218);
+}
+.container{
+    background-color: rgb(182, 179, 179);
+    padding: 20px;
+    /* margin: 30px; */
+    border-radius: 20px;
+    width: 75%;
+}
+h1{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0px;
+    
+}
+img{
+    width: 10%;
+}
+h2 {
+    display: inline-block;
+    width: 10%;
+    padding-left: 15px;
+    text-align: center;
+    margin:15px 10px;
+
+    
+}
+.course_title{
+    position: relative;
+    left: 30px;
+}
+.unit_title{
+    position: relative;
+    left: 75px;
+}
+.score_title{
+    position: relative;
+    left: 110px;
+}
+.point_title{
+    position: relative;
+    left: 140px;
+}
+.grade_title{
+    position: relative;
+    left: 150px;
+}
+
+input{
+    width: 20%;
+    padding: 10px;
+    border-radius: 500px;
+    text-align: center;
+    margin-left: 10px;
+}
+.impt{
+    width: 15%;
+}
+.grade{
+    width: 10%;
+    border: solid;
+    margin-left: 10px;
+}
+.label1{
+    font-weight: bolder;
+    position: relative;
+    left: 300px;
+}
+
+.label2{
+    font-weight: bolder;
+    position: relative;
+    right: 210px;
+}
+.btn1{
+    width: 20%;
+    position: relative;
+    left: 300px;
+    top: 10px;
+}
+.btn2{
+    width: 20%;
+    position: relative;
+    right: 210px;
+    top: 10px;
+}
